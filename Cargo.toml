@@ -3,6 +3,7 @@ name = "aqua-ft"
 version = "0.1.0"
 edition = "2021"
 authors = ["Slimedragon <4sliman4@gmail.com>"]
+license = "MIT OR Apache-2.0"
 
 [lib]
 crate-type = ["cdylib"]
